@@ -1,3 +1,4 @@
+var link=document.getElementById("nabblelink");
 var Nabble = new Object();
 Nabble.defaultHeight = 700;
 Nabble.currentHeight = 0;
